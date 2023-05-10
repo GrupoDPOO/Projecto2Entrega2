@@ -1,0 +1,11 @@
+101;primer piso, primera habitacion;false;false;true;mediana;suite
+103;primer piso;false;false;false;mediana;estandar
+105;primer piso;false;false;true;mediana;estandar
+107;primer piso;false;false;true;mediana;estandar
+201;Segundo piso;false;true;true;mediana;estandar
+203;Segundo piso;false;true;true;mediana;suite doble
+205;Segundo piso;false;true;true;mediana;suite doble
+301;tercer piso;true;true;false;mediana;suite doble
+303;tercer piso;true;true;false;mediana;estandar
+305;tercer piso;true;true;false;mediana;suite
+12;dsad;false;false;true;mediana;suite
